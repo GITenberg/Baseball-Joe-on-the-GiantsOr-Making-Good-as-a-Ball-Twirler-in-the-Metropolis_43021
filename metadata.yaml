@@ -1,0 +1,31 @@
+_repo: Baseball-Joe-on-the-GiantsOr-Making-Good-as-a-Ball-Twirler-in-the-Metropolis_43021
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43021-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Chadwick, Lester
+    gutenberg_agent_id: '32638'
+    url: http://www.gutenberg.org/2009/agents/32638
+description: ''
+gutenberg_issued: '2013-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43021'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Baseball stories'
+- !lcsh 'Diligence -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'New York Giants (Baseball team) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Young men -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Theft -- Juvenile fiction'
+- !lcsh 'Success -- Juvenile fiction'
+- !lcsh 'Baseball players -- Juvenile fiction'
+title: Baseball Joe on the Giants; or, Making Good as a Ball Twirler in the Metropolis
+url: http://www.gutenberg.org/ebooks/43021
