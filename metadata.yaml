@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32638'
     url: http://www.gutenberg.org/2009/agents/32638
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43021#Baseball-Joe-on-the-GiantsOr-Making-Good-as-a-Ball-Twirler-in-the-Metropolis
 gutenberg_issued: '2013-06-23'
 gutenberg_type: Text
 identifiers:
